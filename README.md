@@ -45,7 +45,7 @@ Karar Ağacı Şeması: Modelin nasıl karar verdiğini adım adım (karar_agaci
 Gerekli kütüphaneleri yükleyin:
 
 pip install pandas seaborn matplotlib scikit-learn
-Projeyi çalıştırın:
+
 
 # Örnek Çıktı Analizi
 Program çalıştığında konsolda şu bilgileri göreceksiniz:
