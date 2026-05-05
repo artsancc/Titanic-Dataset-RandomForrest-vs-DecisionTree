@@ -56,5 +56,5 @@ Her iki model için F1-Skoru, Precision ve Recall değerleri.
 
 Hangi modelin daha yüksek doğruluk (Accuracy) oranına sahip olduğu.
 
-# Not: 
+## Not: 
 Kod içerisinde matplotlib.use("Agg") kullanılmıştır; bu sayede kodunuz grafik arayüzü olmayan sunucularda da hata vermeden çalışır ve grafikleri doğrudan dosya olarak kaydeder.
